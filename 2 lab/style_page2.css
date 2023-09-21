@@ -1,0 +1,23 @@
+body{
+    background-color:  #90EE90;
+}
+a{
+    color: #006400;
+} 
+span{
+    font-weight: bold;
+}
+.img_left{
+    float: left;
+}
+.img_right{
+    float: right;
+}
+.p_first{
+    color: chocolate;
+    text-decoration: underline;
+}
+.p_second{
+    color: #0066ff;
+    text-decoration: underline;
+}
